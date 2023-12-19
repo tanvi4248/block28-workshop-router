@@ -35,7 +35,22 @@ body > div {
   background-color: #275db3;
   color: white;
 }
+.black{
+  background-color: black;
+  color: white;
+}
 .home{
   background-color: cadetblue;
   color: white;
+}
+div#footer {
+  display: block;
+  background-color: beige;
+  padding: 20px;
+}
+#footer #navbar{
+  padding: 10px 0;
+}
+#footer #navbar > a {
+  padding: 0 15px;
 }
